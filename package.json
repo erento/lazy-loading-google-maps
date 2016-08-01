@@ -1,0 +1,23 @@
+{
+  "name": "lazy-loading-google-maps",
+  "version": "1.0.0",
+  "description": "lazy load google maps jquery plugin",
+  "main": "jquery.lazy-load-google-maps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erento/lazy-loading-google-maps.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugin"
+  ],
+  "author": "Osvaldas Valutis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erento/lazy-loading-google-maps/issues"
+  },
+  "homepage": "https://github.com/erento/lazy-loading-google-maps#readme"
+}
