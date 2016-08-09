@@ -60,6 +60,9 @@ window.googleMapsScriptLoaded = function()
                            var $this  = $( this ),
                                thisOptions = $this.data( 'options' );
 
+                           if(!thisOptions)
+                             return true;
+
                            if( $this.offset().top - windowScrollTop > windowHeight * 1 )
                              return true;
 
